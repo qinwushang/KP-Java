@@ -1,0 +1,17 @@
+/Users/nuncio/IdeaProjects/springtest/KnowledgeMap/src/main/java/com/example/controller/DrugController.java
+/Users/nuncio/IdeaProjects/springtest/KnowledgeMap/src/main/java/com/example/domain/Relationship/Avoid.java
+/Users/nuncio/IdeaProjects/springtest/KnowledgeMap/src/main/java/com/example/domain/Relationship/Lead.java
+/Users/nuncio/IdeaProjects/springtest/KnowledgeMap/src/main/java/com/example/domain/Node/Drug.java
+/Users/nuncio/IdeaProjects/springtest/KnowledgeMap/src/main/java/com/example/controller/SymptomController.java
+/Users/nuncio/IdeaProjects/springtest/KnowledgeMap/src/main/java/com/example/service/DrugService.java
+/Users/nuncio/IdeaProjects/springtest/KnowledgeMap/src/main/java/com/example/KnowledgeMapApplication.java
+/Users/nuncio/IdeaProjects/springtest/KnowledgeMap/src/main/java/com/example/service/SymptomService.java
+/Users/nuncio/IdeaProjects/springtest/KnowledgeMap/src/main/java/com/example/controller/DiseaseController.java
+/Users/nuncio/IdeaProjects/springtest/KnowledgeMap/src/main/java/com/example/service/DiseaseService.java
+/Users/nuncio/IdeaProjects/springtest/KnowledgeMap/src/main/java/com/example/repository/DrugRepository.java
+/Users/nuncio/IdeaProjects/springtest/KnowledgeMap/src/main/java/com/example/domain/Relationship/CureS.java
+/Users/nuncio/IdeaProjects/springtest/KnowledgeMap/src/main/java/com/example/repository/SymptomRepository.java
+/Users/nuncio/IdeaProjects/springtest/KnowledgeMap/src/main/java/com/example/domain/Node/Disease.java
+/Users/nuncio/IdeaProjects/springtest/KnowledgeMap/src/main/java/com/example/repository/DiseaseRepository.java
+/Users/nuncio/IdeaProjects/springtest/KnowledgeMap/src/main/java/com/example/domain/Relationship/CureD.java
+/Users/nuncio/IdeaProjects/springtest/KnowledgeMap/src/main/java/com/example/domain/Node/Symptom.java
